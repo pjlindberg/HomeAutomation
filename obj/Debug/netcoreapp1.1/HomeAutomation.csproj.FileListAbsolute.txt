@@ -1,0 +1,9 @@
+c:\users\johan & camilla\documents\visual studio 2017\Projects\HomeAutomation\HomeAutomation\bin\Debug\netcoreapp1.1\HomeAutomation.deps.json
+c:\users\johan & camilla\documents\visual studio 2017\Projects\HomeAutomation\HomeAutomation\bin\Debug\netcoreapp1.1\HomeAutomation.runtimeconfig.json
+c:\users\johan & camilla\documents\visual studio 2017\Projects\HomeAutomation\HomeAutomation\bin\Debug\netcoreapp1.1\HomeAutomation.runtimeconfig.dev.json
+c:\users\johan & camilla\documents\visual studio 2017\Projects\HomeAutomation\HomeAutomation\bin\Debug\netcoreapp1.1\HomeAutomation.dll
+c:\users\johan & camilla\documents\visual studio 2017\Projects\HomeAutomation\HomeAutomation\obj\Debug\netcoreapp1.1\HomeAutomation.csprojResolveAssemblyReference.cache
+c:\users\johan & camilla\documents\visual studio 2017\Projects\HomeAutomation\HomeAutomation\obj\Debug\netcoreapp1.1\HomeAutomation.AssemblyInfo.cs
+c:\users\johan & camilla\documents\visual studio 2017\Projects\HomeAutomation\HomeAutomation\bin\Debug\netcoreapp1.1\HomeAutomation.pdb
+c:\users\johan & camilla\documents\visual studio 2017\Projects\HomeAutomation\HomeAutomation\obj\Debug\netcoreapp1.1\HomeAutomation.dll
+c:\users\johan & camilla\documents\visual studio 2017\Projects\HomeAutomation\HomeAutomation\obj\Debug\netcoreapp1.1\HomeAutomation.pdb
