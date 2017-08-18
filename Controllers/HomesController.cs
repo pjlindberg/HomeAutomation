@@ -9,7 +9,7 @@ using HomeAutomation.Models;
 namespace HomeAutomation.Controllers
 {
     [Produces("application/json")]
-    [Route("api/homes")]
+    [Route("api/v1/homes")]
     public class HomesController : Controller
     {
         // C# list

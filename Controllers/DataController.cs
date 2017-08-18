@@ -18,7 +18,7 @@ namespace HomeAutomation.Controllers
     // Change deployment from Development to Production
     // GET /homes/{id}/data där {id} är en dynamisk identifierare för ett hus, t.ex. "hus1". URL:en blir då /homes/hus1/data.
 
-    [Route("api/homes/{id}/data")]
+    [Route("api/v1/homes/{id}/data")]
     //[Route("api/homes/{id?}/Data")]
 
     public class DataController : Controller
