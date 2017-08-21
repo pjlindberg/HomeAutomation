@@ -3,6 +3,8 @@
 This repository is for my home automation IoT project using ESP8266 ESP-12E and sensors.
 
 ## Electronics
+The ESP8266 ESP12E is programmed and powered using a micro USB cable.
+
 
 ### Parts list
 |Part|Price|
