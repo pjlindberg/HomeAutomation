@@ -20,7 +20,7 @@ This repository is for my home automation IoT project using ESP8266 ESP-12E and 
 ![esp8266_esp12e_set-up_bb](https://user-images.githubusercontent.com/23481104/29522486-8f887ae2-8689-11e7-8a70-ac19f270b20a.png)
 
 __IMPORTANT!__
-The PIR motion sensor takes 5v as input, which the ESP8266 ESP-12E can't provide. However, internally the PIR motion sensor operates on 3.3v. This means that it's to bypass the voltage regulator and use it directly with the ESP8266 ESP-12E without having to add a step-up regulator. The soldering is tricky, but not impossible. Observe that it's the PIN on the right side that should be soldered, not the middle PIN! 
+The PIR motion sensor takes 5v as input, which the ESP8266 ESP-12E can't provide. However, internally the PIR motion sensor operates at 3.3v. This means that it's possible to bypass the voltage regulator and use it directly with the ESP8266 ESP-12E, without having to add a step-up regulator. The soldering is tricky, but not impossible. Observe that it's the PIN on the right side that should be soldered, not the PIN in the middle! 
 
 Youtube instructions from EZtech: 
 
