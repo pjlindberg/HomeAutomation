@@ -24,14 +24,18 @@ namespace HomeAutomation.Controllers
     public class DataController : Controller
     {
 
-        //private static List<Data> _data = new List<Data>(new[] {
-        //        new Data() { name = "Sovrum"},
-        //        new Data() { name = "Barnrum"}
-        //    });
+        //private static List<Room> _room = new List<Room>(new[]
+        //{
+        //    new Room() {}
+        //});
 
         private static List<Data> _data = new List<Data>(new[] {
-                new Data() { name = "Sovrum"},
-                new Data() { name = "Barnrum"}
+                new Data() {name = "Barnrum"},
+                new Data() {name = "Lekrum"},
+                new Data() {name = "Kök"},
+                new Data() {name = "Sovrum"},
+                new Data() {name = "Vardagsrum"},
+                new Data() {name = "Balkong"}
             });
 
 
@@ -47,6 +51,15 @@ namespace HomeAutomation.Controllers
         public List<Data> Get()
         {
             return _data;
+        }
+
+        // Add new data from post
+        [HttpPost]
+        public IActionResult Post([FromBody]Data data)
+        {
+            return Json(data);
+//            _data.Add(data);
+//            return CreatedAtAction(nameof(Get), new { id = home.ID }, home);
         }
 
         /* Should be able to:
